@@ -1,0 +1,13 @@
+Ping, (c) Scott Girling, 2007
+
+A complete clone of Pong. This was my first complete game programmed in C++ and SDL.
+
+Controls
+
+Player One (Bottom): Arrow Left and Arrow Right.
+Player Two (Top): A and D
+
+
+Sorry, I didn't implement AI...
+
+This demonstrates my first attempt at States too.

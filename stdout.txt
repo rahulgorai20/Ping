@@ -1,0 +1,8 @@
+Initializing System.
+Opening Audio.
+Loading Resources into Memory.
+Loading States.
+Setting up Players.
+System Initialized. Play on!
+
+Good bye!
